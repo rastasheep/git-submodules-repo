@@ -1,0 +1,6 @@
+[submodule "google-wave-scrollbar"]
+	path = google-wave-scrollbar
+	url = git@github.com:rastasheep/google-wave-scrollbar.git
+[submodule "public/google-wave-scrollbar"]
+	path = public/google-wave-scrollbar
+	url = git@github.com:rastasheep/google-wave-scrollbar.git
